@@ -3,7 +3,7 @@
         "name": "rustray",
         "uuid": "c89c5834-63db-4a6e-8e0a-d75985b1730e",
         "url": "git://github.com/brson/rustray",
-        "tags": ["example"]
+        "tags": ["example"],
         "method": "git"
     },
     {
