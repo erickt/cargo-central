@@ -1,1 +1,50 @@
-[]
+[
+    {
+        "name": "rustray",
+        "uuid": "c89c5834-63db-4a6e-8e0a-d75985b1730e",
+        "url": "git://github.com/brson/rustray",
+        "tags": ["example"]
+        "method": "git"
+    },
+    {
+        "name": "rust-hello",
+        "uuid": "83941200-18b3-41b1-8316-b98a2950b33a",
+        "url": "git://github.com/elly/rust-hello",
+        "method": "git",
+        "tags": ["example"]
+    },
+    {
+        "name": "crypto",
+        "uuid": "38297409-b4c2-4499-8131-a99a7e44dad3",
+        "url": "git://github.com/elly/rustcrypto",
+        "method": "git",
+        "tags": ["crypto"]
+    },
+    {
+        "name": "zlib",
+        "uuid": "6c34ea67-f290-4438-9d82-db480114d7da",
+        "url": "git://github.com/elly/rustzlib",
+        "method": "git",
+        "tags": ["compression"]
+    },
+    {
+        "name": "pcre",
+        "uuid": "54aba0f8-a7b1-4beb-92f1-4cf625264841",
+        "url": "git://github.com/elly/rustpcre",
+        "method": "git",
+        "tags": ["regex"]
+    },
+    {
+        "name": "tnetstring",
+        "uuid": "ce93b70c-c22a-45fa-97a7-66ab97009005",
+        "url": "https://github.com/erickt/rust-tnetstring",
+        "method": "git",
+        "tags": ["serialization"]
+    },
+    {
+        "name": "zmq",
+        "uuid": "54cc1bc9-02b8-447c-a227-75ebc923bc29",
+        "url": "https://github.com/erickt/rust-zmq",
+        "method": "git"
+    }
+]
