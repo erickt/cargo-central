@@ -60,5 +60,12 @@
         "url": "https://github.com/killerswan/rustx",
         "method": "git",
         "tags": ["utility","script","shortcut"]
+    },
+    {
+        "name": "csv",
+        "uuid": "c88f4e89-fc12-4cb3-a978-35d135aefcfd",
+        "url": "https://github.com/grahame/rust-csv",
+        "method": "git",
+        "tags": ["spreadsheet"]
     }
 ]
