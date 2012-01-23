@@ -67,5 +67,12 @@
         "url": "https://github.com/grahame/rust-csv",
         "method": "git",
         "tags": ["spreadsheet"]
+    },
+    {
+        "name": "iter",
+        "uuid": "1ADE62EE-BE76-46C1-B065-3438B7199A37",
+        "url": "https://github.com/nikomatsakis/rust-iter",
+        "method": "git",
+        "tags": []
     }
 ]
