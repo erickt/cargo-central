@@ -4,75 +4,86 @@
         "uuid": "c89c5834-63db-4a6e-8e0a-d75985b1730e",
         "url": "git://github.com/brson/rustray",
         "tags": ["example"],
-        "method": "git"
+        "method": "git",
+        "description": "A raytracing proof-of-concept in Rust."
     },
     {
         "name": "rust-hello",
         "uuid": "83941200-18b3-41b1-8316-b98a2950b33a",
         "url": "git://github.com/elly/rust-hello",
         "method": "git",
-        "tags": ["example"]
+        "tags": ["example"],
+        "description": "Hello World in rust."
     },
     {
         "name": "crypto",
         "uuid": "38297409-b4c2-4499-8131-a99a7e44dad3",
         "url": "git://github.com/elly/rustcrypto",
         "method": "git",
-        "tags": ["crypto"]
+        "tags": ["crypto"],
+        "description": "OpenSSL libcrypto bindings for the Rust language."
     },
     {
         "name": "zlib",
         "uuid": "6c34ea67-f290-4438-9d82-db480114d7da",
         "url": "git://github.com/elly/rustzlib",
         "method": "git",
-        "tags": ["compression"]
+        "tags": ["compression"],
+        "description": "zlib bindings for rust."
     },
     {
         "name": "pcre",
         "uuid": "54aba0f8-a7b1-4beb-92f1-4cf625264841",
         "url": "git://github.com/elly/rustpcre",
         "method": "git",
-        "tags": ["regex"]
+        "tags": ["regex"],
+        "description": "PCRE bindings for Rust."
     },
     {
         "name": "tnetstring",
         "uuid": "ce93b70c-c22a-45fa-97a7-66ab97009005",
         "url": "https://github.com/erickt/rust-tnetstring",
         "method": "git",
-        "tags": ["serialization"]
+        "tags": ["serialization"],
+        "description": "tnetstring serialization library for rust."
     },
     {
         "name": "zmq",
         "uuid": "54cc1bc9-02b8-447c-a227-75ebc923bc29",
         "url": "https://github.com/erickt/rust-zmq",
-        "method": "git"
+        "method": "git",
+        "description": "Rust zeromq bindings."
     },
     {
         "name": "sqlite",
         "uuid": "5dd017c1-a8fb-458f-b430-cecf793ffbd5",
         "url": "https://github.com/linuxfood/rustsqlite",
         "method": "git",
-        "tags": ["database"]
+        "tags": ["database"],
+        "description": "SQLite3 Bindings for Rust."
     },
     {
         "name": "rustx",
         "uuid": "ec9ace30-b7dc-4d66-9cce-a21cc1c06c93",
         "url": "https://github.com/killerswan/rustx",
         "method": "git",
-        "tags": ["utility","script","shortcut"]
+        "tags": ["utility","script","shortcut"],
+        "description": "Scripts to compile and run Rust programs in one command."
     },
     {
         "name": "csv",
         "uuid": "c88f4e89-fc12-4cb3-a978-35d135aefcfd",
         "url": "https://github.com/grahame/rust-csv",
         "method": "git",
-        "tags": ["spreadsheet"]
+        "tags": ["spreadsheet"],
+        "description": "CSV implementation for Rust."
     },
     {
         "name": "iter",
         "uuid": "1ADE62EE-BE76-46C1-B065-3438B7199A37",
         "url": "https://github.com/nikomatsakis/rust-iter",
         "method": "git",
-        "tags": []
+        "tags": [],
+        "description": "An iteration library for Rust."
     }
 ]
