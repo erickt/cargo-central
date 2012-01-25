@@ -85,5 +85,13 @@
         "method": "git",
         "tags": [],
         "description": "An iteration library for Rust."
+    },
+    {
+        "name": "mecab",
+        "uuid": "157601c8-818c-4898-b1dc-890eeeab4936",
+        "url": "https://github.com/tychosci/rust-mecab",
+        "method": "git",
+        "tags": ["nlp"],
+        "description": "MeCab bindings for Rust."
     }
 ]
