@@ -8,6 +8,14 @@
         "description": "A raytracing proof-of-concept in Rust."
     },
     {
+        "name": "llvm",
+        "uuid": "905a34f0-ca79-4e5c-bf5d-3e5100056a55",
+        "url": "git://github.com/brson/rust-llvm",
+        "tags": [],
+        "method": "git",
+        "description": "LLVM bindings"
+    },
+    {
         "name": "rust-hello",
         "uuid": "83941200-18b3-41b1-8316-b98a2950b33a",
         "url": "git://github.com/elly/rust-hello",
