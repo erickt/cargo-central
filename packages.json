@@ -117,5 +117,13 @@
         "method": "git",
         "tags": ["opengl"],
         "description": "glfw bindings for Rust."
+    },
+    {
+        "name": "cairo",
+        "uuid": "df1e437b-e617-48ba-bfc7-b2eef204048f",
+        "url": "https://github.com/z0w0/rusty-cairo",
+        "method": "git",
+        "tags": ["2d","vector","graphics","svg"],
+        "description": "Cairo bindings for Rust, enabling a powerful interface to vector graphics."
     }
 ]
