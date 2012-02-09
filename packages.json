@@ -125,5 +125,13 @@
         "method": "git",
         "tags": ["2d","vector","graphics","svg"],
         "description": "Cairo bindings for Rust, enabling a powerful interface to vector graphics."
+    },
+    {
+        "name": "rustic",
+        "uuid": "6ae5808a-62ae-438c-a77a-aa96ebc934a7",
+        "url": "https://github.com/Wensleydale/rust-rustic",
+        "method": "git",
+        "tags": ["utility","script","tools","repl"],
+        "description": "A REPL-ish thing for Rust to fill the gap until someone implements a proper one."
     }
 ]
