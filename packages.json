@@ -133,5 +133,13 @@
         "method": "git",
         "tags": ["utility","script","tools","repl"],
         "description": "A REPL-ish thing for Rust to fill the gap until someone implements a proper one."
+    },
+    {
+        "name": "mongrel2",
+        "uuid": "f1bdda2b-0db7-42df-a40e-0decd4d56bb0",
+        "url": "https://github.com/erickt/rust-mongrel2",
+        "method": "git",
+        "tags": ["web"],
+        "description": "Mongrel2 bindings for Rust."
     }
 ]
