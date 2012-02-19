@@ -3,7 +3,7 @@
         "name": "rustray",
         "uuid": "c89c5834-63db-4a6e-8e0a-d75985b1730e",
         "url": "git://github.com/brson/rustray",
-        "tags": ["example"],
+        "tags": ["example", "graphics"],
         "method": "git",
         "description": "A raytracing proof-of-concept in Rust."
     },
@@ -123,7 +123,7 @@
         "uuid": "a1848f17-c60e-469d-8b12-8f1b45d2c31f",
         "url": "https://github.com/alegalle/rust_glfw",
         "method": "git",
-        "tags": ["opengl"],
+        "tags": ["opengl", "graphics"],
         "description": "glfw bindings for Rust."
     },
     {
@@ -155,7 +155,7 @@
         "uuid": "72589cd3-f56b-40c3-b944-db257ed8b36c",
         "url": "https://github.com/alegalle/rustgl_4_2_core",
         "method": "git",
-        "tags": ["opengl"],
+        "tags": ["opengl", "graphics"],
         "description": "Opengl 4.2 bindings for Rust."
     }
 ]
