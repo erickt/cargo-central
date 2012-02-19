@@ -141,5 +141,13 @@
         "method": "git",
         "tags": ["web"],
         "description": "Mongrel2 bindings for Rust."
+    },
+    {
+        "name": "rustgl_4_2_core",
+        "uuid": "72589cd3-f56b-40c3-b944-db257ed8b36c",
+        "url": "https://github.com/alegalle/rustgl_4_2_core",
+        "method": "git",
+        "tags": ["opengl"],
+        "description": "Opengl 4.2 bindings for Rust."
     }
 ]
