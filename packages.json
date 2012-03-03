@@ -157,5 +157,13 @@
         "method": "git",
         "tags": ["opengl", "graphics"],
         "description": "Opengl 4.2 bindings for Rust."
+    },
+    {
+        "name": "mustache",
+        "uuid": "afecaa07-75c5-466c-b3a3-fae5d32e04aa",
+        "url": "https://github.com/erickt/rust-mustache",
+        "method": "git",
+        "tags": ["templates"],
+        "description": "Mustache logic-less templates."
     }
 ]
